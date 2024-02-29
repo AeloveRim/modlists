@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Tahrovin - Grit",
+    "description": "Tahrovin Grit is a fork of Tahrovin, a NSFW Skyrim VR modlist. It features light survival gameplay and aims towards a slower-paced character growth, reworking many gameplay mechanics to provide a well-balanced challenge throughout your playthrough.",
+    "author": "Aelove & Neochiken",
+    "maintainers": [
+      "github/AeloveRim"
+    ],
+    "game": "skyrimvr",
+    "official": false,
+    "tags": [
+      "NSFW",
+      "VR"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
+      "readme": "https://github.com/AeloveRim/TahrovinGrit/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_e0cf6909-67f0-4f0f-a5c9-26dd1a57e403",
+      "machineURL": "tahrovingrit",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+	"Hash":"FhnMA/1HbKo=",
+	"Size":1876066147,
+	"NumberOfArchives":882,
+	"SizeOfArchives":109149989756,
+	"NumberOfInstalledFiles":244325,
+	"SizeOfInstalledFiles":257585689907
+	},
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-02-29T17:00:00.0000000Z",
+    "repositoryName": ""
+  }
+]
