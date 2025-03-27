@@ -20,21 +20,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
       "readme": "https://github.com/AeloveRim/TahrovinGrit/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_8e760fdb-6701-4fa9-96d6-2ba437584c2f",
+      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_cb888a8f-675e-41bb-bfd0-13e871c1abef",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-	    "Hash":"otbjf/EZk24=",
-	    "Size":391747427,
+	    "Hash":"VIKPxOYWgkA=",
+	    "Size":391790873,
 	    "NumberOfArchives":919,
 	    "SizeOfArchives":103776818296,
-	    "NumberOfInstalledFiles":266803,
-	    "SizeOfInstalledFiles":216169684083
+	    "NumberOfInstalledFiles":266779,
+	    "SizeOfInstalledFiles":216170487879
 	},
     "version": "1.4.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-27T19:00:00.0000000Z",
+    "dateUpdated": "2025-03-27T20:00:00.0000000Z",
     "repositoryName": ""
   }
 ]
