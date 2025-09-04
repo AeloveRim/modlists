@@ -19,7 +19,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
-      "readme": "aeloverim.github.io",
+      "readme": "https://aeloverim.github.io",
       "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_d8a5c51d-3366-4156-ad2b-b7153087c109",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/iammodlist"
@@ -39,6 +39,7 @@
     "repositoryName": ""
   }
 ]
+
 
 
 
