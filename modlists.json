@@ -16,29 +16,30 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
       "readme": "https://aeloverim.github.io",
-      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_d8a5c51d-3366-4156-ad2b-b7153087c109",
+      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_201c8c0f-cd1a-4f68-899d-3c3cb324f304",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/iammodlist"
     },
     "download_metadata": {
-		"Hash":"490+q2rHPLw=",
-		"Size":431548348,
-		"NumberOfArchives":993,
-		"SizeOfArchives":120463746390,
-		"NumberOfInstalledFiles":325822,
-		"SizeOfInstalledFiles":244192539897,
-		"TotalSize":364656286287
+		"Hash":"DWpV90diWDI=",
+		"Size":433094745,
+		"NumberOfArchives":990,
+		"SizeOfArchives":119857766925,
+		"NumberOfInstalledFiles":324196,
+		"SizeOfInstalledFiles":242552615900,
+		"TotalSize":362410382825
 	},
-    "version": "1.5.2",
+    "version": "1.6.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-29T20:00:00.0000000Z",
+    "dateUpdated": "2025-09-08T20:00:00.0000000Z",
     "repositoryName": ""
   }
 ]
+
 
 
 
