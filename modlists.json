@@ -20,23 +20,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
       "readme": "https://aeloverim.github.io",
-      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_bc898905-9ff5-4437-bd7e-d3fb76809a6c",
+      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_80b731f6-cadf-4722-b6c4-472fb0fdbbe1",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/iammodlist"
     },
     "download_metadata": {
-		"Hash":"3jngkGoWNXw=",
-		"Size":444610507,
-		"NumberOfArchives":1010,
-		"SizeOfArchives":116244211403,
-		"NumberOfInstalledFiles":330855,
-		"SizeOfInstalledFiles":238547274435,
-		"TotalSize":354791485838
+		"Hash":"o8tTBADQ/ZM=",
+		"Size":441168794,
+		"NumberOfArchives":1013,
+		"SizeOfArchives":116248038973,
+		"NumberOfInstalledFiles":330865,
+		"SizeOfInstalledFiles":238518273225,
+		"TotalSize":354766312198
 	},
-    "version": "1.8.0",
+    "version": "1.8.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-03T20:00:00.0000000Z",
+    "dateUpdated": "2025-12-11T20:00:00.0000000Z",
     "repositoryName": ""
   }
 ]
-
