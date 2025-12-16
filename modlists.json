@@ -57,7 +57,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://aeloverim.github.io/SpiritOfGrit/img/SpiritFinal2.png",
+      "image": "https://raw.githubusercontent.com/AeloveRim/SpiritOfGrit/refs/heads/main/img/SpiritFinal2.png",
       "readme": "https://aeloverim.github.io/SpiritOfGrit/",
       "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_b3c3f5f5-5760-43a5-94f5-7c68c860d7b7",
       "machineURL": "spiritofgrit",
@@ -78,6 +78,7 @@
     "repositoryName": ""
   }
 ]
+
 
 
 
