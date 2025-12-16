@@ -37,8 +37,48 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-12-15T23:00:00.0000000Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Spirit of Grit",
+    "description": "Spirit of Grit is a hardcore-lite modlist, providing increased challenge without going too far. Gold is precious, character progression is slower, specialization is vital and magic is not a given. Many mod-added gameplay mechanics have been worked into character progression and can be unlocked through skills and custom perks. As a SFW fork of Tahrovin Grit, the modlist also overhauls visuals and includes a lot of new quests, all of them fully tested and patched, bringing many hours of new content.",
+    "author": "Aelove",
+    "maintainers": [
+      "github/AeloveRim"
+    ],
+    "game": "skyrimvr",
+    "official": false,
+    "tags": [
+      "VR",
+	   "Total Overhaul"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://aeloverim.github.io/SpiritOfGrit/img/SpiritFinal2.png",
+      "readme": "https://aeloverim.github.io/SpiritOfGrit/",
+      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_b3c3f5f5-5760-43a5-94f5-7c68c860d7b7",
+      "machineURL": "spiritofgrit",
+      "discordURL": "https://discord.gg/iammodlist"
+    },
+    "download_metadata": {
+		"Hash":"0gzNTK25Z40=",
+		"Size":401887609,
+		"NumberOfArchives":873,
+		"SizeOfArchives":95621871701,
+		"NumberOfInstalledFiles":182142,
+		"SizeOfInstalledFiles":188582098239,
+		"TotalSize":284203969940
+	},
+    "version": "1.8.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-12-16T23:00:00.0000000Z",
+    "repositoryName": ""
   }
 ]
+
 
 
 
