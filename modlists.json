@@ -22,7 +22,8 @@
       "readme": "https://aeloverim.github.io",
       "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_bc3465c9-0598-428e-8237-fdd744c5f0f6",
       "machineURL": "tahrovingrit",
-      "discordURL": "https://discord.gg/iammodlist"
+      "discordURL": "https://discord.gg/iammodlist",
+	  "websiteURL": "https://aeloverim.github.io"
     },
     "download_metadata": {
 		"Hash":"eWriq0O9TPM=",
@@ -61,7 +62,8 @@
       "readme": "https://aeloverim.github.io/SpiritOfGrit/",
       "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_b3c3f5f5-5760-43a5-94f5-7c68c860d7b7",
       "machineURL": "spiritofgrit",
-      "discordURL": "https://discord.gg/iammodlist"
+      "discordURL": "https://discord.gg/iammodlist",
+	  "websiteURL": "https://aeloverim.github.io/SpiritOfGrit"
     },
     "download_metadata": {
 		"Hash":"0gzNTK25Z40=",
@@ -78,6 +80,7 @@
     "repositoryName": ""
   }
 ]
+
 
 
 
