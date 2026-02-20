@@ -59,26 +59,27 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/SpiritOfGrit/refs/heads/main/img/SpiritFinal2.png",
       "readme": "https://aeloverim.github.io/SpiritOfGrit/",
-      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_b3c3f5f5-5760-43a5-94f5-7c68c860d7b7",
+      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_0a83e6d2-f07c-4f75-8f78-d49f6d5318a1",
       "machineURL": "spiritofgrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io/SpiritOfGrit"
     },
     "download_metadata": {
-		"Hash":"0gzNTK25Z40=",
-		"Size":401887609,
-		"NumberOfArchives":873,
-		"SizeOfArchives":95621871701,
-		"NumberOfInstalledFiles":182142,
-		"SizeOfInstalledFiles":188582098239,
-		"TotalSize":284203969940
+		"Hash":"kXbEOavBZ5c=",
+		"Size":403853930,
+		"NumberOfArchives":888,
+		"SizeOfArchives":96423237942,
+		"NumberOfInstalledFiles":186540,
+		"SizeOfInstalledFiles":190082582295,
+		"TotalSize":286505820237
 	},
-    "version": "1.8.4",
+    "version": "1.9.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-16T23:00:00.0000000Z",
+    "dateUpdated": "2026-02-20T23:00:00.0000000Z",
     "repositoryName": ""
   }
 ]
+
 
 
 
