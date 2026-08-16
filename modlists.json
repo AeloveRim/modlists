@@ -16,27 +16,27 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
       "readme": "https://aeloverim.github.io",
-      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_62bf62e0-60e4-4188-a32f-a5215493b0ea",
+      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_49214eca-bc9b-46f9-9c0c-59b9a0ef6f3d",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io"
     },
     "download_metadata": {
-		"Hash":"H+QNcA4imFM=",
-		"Size":403498412,
-		"NumberOfArchives":1117,
-		"SizeOfArchives":122537601272,
-		"NumberOfInstalledFiles":389325,
-		"SizeOfInstalledFiles":250807423908,
-		"TotalSize":373345025180
+		"Hash":"r4QoXQfeHxs=",
+		"Size":419012688,
+		"NumberOfArchives":1142,
+		"SizeOfArchives":126189827764,
+		"NumberOfInstalledFiles":395442,
+		"SizeOfInstalledFiles":257834787712,
+		"TotalSize":384024615476
 	},
-    "version": "1.9.99",
+    "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-13T23:00:00.0000000Z",
+    "dateUpdated": "2026-08-16T06:00:00.0000000Z",
     "repositoryName": ""
   },
   {
@@ -60,23 +60,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/SpiritOfGrit/refs/heads/main/img/SpiritFinal2.png",
       "readme": "https://aeloverim.github.io/SpiritOfGrit/",
-      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_0a83e6d2-f07c-4f75-8f78-d49f6d5318a1",
+      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_c1093704-94f1-4c80-ba6b-bffc0bb97f27",
       "machineURL": "spiritofgrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io/SpiritOfGrit"
     },
     "download_metadata": {
-		"Hash":"kXbEOavBZ5c=",
-		"Size":403853930,
-		"NumberOfArchives":888,
-		"SizeOfArchives":96423237942,
-		"NumberOfInstalledFiles":186540,
-		"SizeOfInstalledFiles":190082582295,
-		"TotalSize":286505820237
+		"Hash":"wgDFpxmRyrE=",
+		"Size":374465735,
+		"NumberOfArchives":963,
+		"SizeOfArchives":98296430677,
+		"NumberOfInstalledFiles":193631,
+		"SizeOfInstalledFiles":193734400852,
+		"TotalSize":292030831529
 	},
-    "version": "1.9.3",
+    "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-20T23:00:00.0000000Z",
+    "dateUpdated": "2026-08-16T06:00:00.0000000Z",
     "repositoryName": ""
   }
 ]
