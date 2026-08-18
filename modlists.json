@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
       "readme": "https://aeloverim.github.io",
-      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_49214eca-bc9b-46f9-9c0c-59b9a0ef6f3d",
+      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_14bc601c-2064-43a7-9f5a-8c76d22ad3ba",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io"
     },
     "download_metadata": {
-		"Hash":"r4QoXQfeHxs=",
-		"Size":419012688,
+		"Hash":"yzYcKzdjHZI=",
+		"Size":418771693,
 		"NumberOfArchives":1142,
 		"SizeOfArchives":126189827764,
 		"NumberOfInstalledFiles":395442,
-		"SizeOfInstalledFiles":257834787712,
-		"TotalSize":384024615476
+		"SizeOfInstalledFiles":257833753532,
+		"TotalSize":384023581296
 	},
-    "version": "2.0",
+    "version": "2.02",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-16T06:00:00.0000000Z",
+    "dateUpdated": "2026-08-18T06:00:00.0000000Z",
     "repositoryName": ""
   },
   {
@@ -60,23 +60,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/SpiritOfGrit/refs/heads/main/img/SpiritFinal2.png",
       "readme": "https://aeloverim.github.io/SpiritOfGrit/",
-      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_8aeebcbc-6fa8-4ecd-bc7a-c45abed78d5f",
+      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_a06858bc-cb4a-4f12-917b-76007150e134",
       "machineURL": "spiritofgrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io/SpiritOfGrit"
     },
     "download_metadata": {
-		"Hash":"WPc8B4bPmHA=",
-		"Size":374373923,
+		"Hash":"fqRh6a4PuIQ=",
+		"Size":374374291,
 		"NumberOfArchives":964,
 		"SizeOfArchives":98527877921,
 		"NumberOfInstalledFiles":193631,
-		"SizeOfInstalledFiles":193736412206,
-		"TotalSize":292264290127
+		"SizeOfInstalledFiles":193736412198,
+		"TotalSize":292264290119
 	},
-    "version": "2.01",
+    "version": "2.02",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-17T01:00:00.0000000Z",
+    "dateUpdated": "2026-08-18T06:00:00.0000000Z",
     "repositoryName": ""
   }
 ]
