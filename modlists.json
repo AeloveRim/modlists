@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
       "readme": "https://aeloverim.github.io",
-      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_86d316c7-b2ae-4e5a-87d5-b22193a1d8f8",
+      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_e758ce29-dd5c-404b-b375-e80aa85d9dfa",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io"
     },
     "download_metadata": {
-		"Hash":"WYgb3zu0jK8=",
-		"Size":418920886,
-		"NumberOfArchives":1142,
-		"SizeOfArchives":126189827764,
-		"NumberOfInstalledFiles":395442,
-		"SizeOfInstalledFiles":257833902738,
-		"TotalSize":384023730502
+		"Hash":"LSHelvxHYLU=",
+		"Size":404675312,
+		"NumberOfArchives":1146,
+		"SizeOfArchives":126186874380,
+		"NumberOfInstalledFiles":395451,
+		"SizeOfInstalledFiles":257679148178,
+		"TotalSize":383866022558
 	},
-    "version": "2.02",
+    "version": "2.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-18T11:00:00.0000000Z",
+    "dateUpdated": "2026-08-31T13:00:00.0000000Z",
     "repositoryName": ""
   },
   {
@@ -60,23 +60,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/SpiritOfGrit/refs/heads/main/img/SpiritFinal2.png",
       "readme": "https://aeloverim.github.io/SpiritOfGrit/",
-      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_a06858bc-cb4a-4f12-917b-76007150e134",
+      "download": "https://authored-files.wabbajack.org/Spirit%20of%20Grit.wabbajack_444441a7-a1d7-4c27-ab00-beb54b5368cb",
       "machineURL": "spiritofgrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io/SpiritOfGrit"
     },
     "download_metadata": {
-		"Hash":"fqRh6a4PuIQ=",
-		"Size":374374291,
-		"NumberOfArchives":964,
-		"SizeOfArchives":98527877921,
-		"NumberOfInstalledFiles":193631,
-		"SizeOfInstalledFiles":193736412198,
-		"TotalSize":292264290119
+		"Hash":"7pLBltCIFEo=",
+		"Size":360508786,
+		"NumberOfArchives":968,
+		"SizeOfArchives":98523732651,
+		"NumberOfInstalledFiles":193640,
+		"SizeOfInstalledFiles":193581655451,
+		"TotalSize":292105388102
 	},
-    "version": "2.02",
+    "version": "2.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-18T06:00:00.0000000Z",
+    "dateUpdated": "2026-08-31T13:00:00.0000000Z",
     "repositoryName": ""
   }
 ]
