@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/TahrovinGrit/main/img/Tahrovin.png",
       "readme": "https://aeloverim.github.io",
-      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_5d4af204-3a76-4b95-94e0-4064dbf7b4d4",
+      "download": "https://authored-files.wabbajack.org/Tahrovin%20-%20Grit.wabbajack_27c2caed-d065-4eb8-9acf-992ce07b72b9",
       "machineURL": "tahrovingrit",
       "discordURL": "https://discord.gg/iammodlist",
 	  "websiteURL": "https://aeloverim.github.io"
     },
     "download_metadata": {
-		"Hash":"rQEbgquWGuA=",
-		"Size":406559837,
-		"NumberOfArchives":1156,
-		"SizeOfArchives":127751144248,
-		"NumberOfInstalledFiles":396773,
-		"SizeOfInstalledFiles":262527054448,
-		"TotalSize":390278198696
+		"Hash":"Ig2hH73wODk=",
+		"Size":407479992,
+		"NumberOfArchives":1155,
+		"SizeOfArchives":123919817578,
+		"NumberOfInstalledFiles":397483,
+		"SizeOfInstalledFiles":262227213558,
+		"TotalSize":386147031136
 	},
-    "version": "2.0.4",
+    "version": "2.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-21T13:00:00.0000000Z",
+    "dateUpdated": "2026-10-28T13:00:00.0000000Z",
     "repositoryName": ""
   },
   {
@@ -56,7 +56,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/AeloveRim/SpiritOfGrit/refs/heads/main/img/SpiritFinal2.png",
       "readme": "https://aeloverim.github.io/SpiritOfGrit/",
